@@ -1,7 +1,7 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
-  name: nginx0-deployment
+  name: 
   labels:
     app: nginx0-deployment
 spec:
